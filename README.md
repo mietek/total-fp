@@ -14,7 +14,7 @@ _total-functional-programming_
 * 2000, A. Telford, D. Turner, [“A Hierarchy of Languages with Strong Termination Properties”](doc/pdf/2000-telford-turner-a-hierarchy-of-languages-with-strong-termination-properties.pdf)
 * 2000, A. Telford, D. Turner, [“Ensuring Termination in ESFP”](doc/pdf/2000-telford-turner-ensuring-termination-in-esfp.pdf)
 * 2000, D. Turner, [“Final Report: Elementary Strong Functional Programming”](doc/pdf/2000-turner-final-report-elementary-strong-functional-programming.pdf)
-* 2001, D. Kaganovsky, [“Exact Computing in Positional Weighted Systems”](doc/pdf/2001-kaganovsky-exact-computing-in-positional-weighted-systems.pdf)
+* 2001, A. Kaganovsky, [“Exact Computing in Positional Weighted Systems”](doc/pdf/2001-kaganovsky-exact-computing-in-positional-weighted-systems.pdf)
 * 2004, D. Turner, [“Total Functional Programming”](doc/pdf/2004-turner-total-functional-programming.pdf)
 
 
