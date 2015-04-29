@@ -18,7 +18,7 @@ _total-functional-programming_
 * 2004, D. Turner, [“Total functional programming”](doc/pdf/2004-turner-total-functional-programming.pdf)
 
 
-#### Related work
+### Related work
 
 * [The ET language](https://github.com/mietek/et-language)
 * [The Charity language](https://github.com/mietek/charity-language)
