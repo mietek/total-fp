@@ -16,6 +16,7 @@ _total-functional-programming_
 * 2000, D. Turner, [“Final report: Elementary strong functional programming”](doc/pdf/2000-turner-final-report-elementary-strong-functional-programming.pdf)
 * 2001, A. Kaganovsky, [“Exact computing in positional weighted systems”](doc/pdf/2001-kaganovsky-exact-computing-in-positional-weighted-systems.pdf)
 * 2004, D. Turner, [“Total functional programming”](doc/pdf/2004-turner-total-functional-programming.pdf)
+* 2006, D. Turner, [“Church’s thesis and functional programming”](doc/pdf/2006-turner-churchs-thesis-and-functional-programming.pdf)
 
 
 ### Related work
