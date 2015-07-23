@@ -21,6 +21,7 @@ _total-functional-programming_
 
 ### Related work
 
+* [_Totally_ functional programming](https://github.com/mietek/totally-functional-programming)
 * [The ET language](https://github.com/mietek/et-language)
 * [The Charity language](https://github.com/mietek/charity-language)
 
