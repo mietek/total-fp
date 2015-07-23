@@ -5,9 +5,7 @@ Elementary Strong Functional Programming: Summary
 >
 > _Unfortunately, Telford’s and Kaganovsky’s home pages have not been included in the Internet Archive._
 >
-> _**Additional literature**_
->
-> * _Total Functional Programming ([PDF](pdf/2004-turner-total-functional-programming.pdf))_
+> _Additional [literature](pdf) is included in the repository, and listed in the [README](../README.md)._
 
 [Professor D. A. Turner](http://www.cs.kent.ac.uk/people/staff/dat/index.html), Computing Laboratory, University of Kent, Canterbury CT2 7NF, UK.
 
@@ -23,17 +21,17 @@ Our techniques for recognising productivity in corecursive definitions of infini
 
 For further information contact the [investigator](http://www.cs.kent.ac.uk/people/staff/dat/index.html) at the University of Kent.
 
-Final report. ([PDF](pdf/2000-turner-final-report-elementary-strong-functional-programming.pdf))
+Final report. ([PDF](pdf/turner-2000.pdf))
 
 
 References
 ----------
 
-1. A. J. Telford, D. A. Turner, [“Ensuring Streams Flow”](http://www.cs.ukc.ac.uk/pubs/1997/499/) Johnson, ed, Algebraic Methodology and Software Technology — AMAST ’97. LNCS 1349, pages 509-523, Springer, 1997. ([PDF](pdf/2000-turner-final-report-elementary-strong-functional-programming.pdf))
-2. A. J. Telford, D. A. Turner, [“Ensuring the Productivity of Infinite Structures”](http://www.cs.ukc.ac.uk/pubs/1997/551/) Technical Report TR 14-97, 37 pages, Computing Laboratory, University of Kent, March 1998. ([PDF](pdf/1997-telford-turner-ensuring-the-productivity-of-infinite-structures.pdf))
-3. A. J. Telford, D. A. Turner, [“Ensuring Termination in ESFP”](http://www.jucs.org/jucs_6_4/ensuring_termination_in_esfp), Journal of Universal Computer Science 6(4):474-488, April 2000 (originally presented at 15th British Colloquium in Theoretical Computer Science, Keele, April 1999). ([PDF](pdf/2000-telford-turner-ensuring-termination-in-esfp.pdf))
-4. A. J. Telford, D. A. Turner, [“A Hierarchy of Languages with Strong Termination Properties”](http://www.cs.ukc.ac.uk/pubs/2000/964/), Technical Report TR 2-00, 66 pages, University of Kent Computing Laboratory, January 2000. ([PDF](pdf/2000-telford-turner-a-hierarchy-of-languages-with-strong-termination-properties.pdf))
-5. A. Y. Kaganovsky, [“Computing With Exact Real Numbers in a Radix-r System”](http://www.cs.kent.ac.uk/pubs/1999/947/), Electronic Notes in Theoretical Computer Science, Volume 13, 27 Pages, Elsevier 1998. Revised version available as Technical Report TR 19-99, 30 pages, Computing Laboratory, University of Kent, October 1999. ([PDF](pdf/1999-kaganovsky-computing-with-exact-real-numbers-in-a-radix-r-system.pdf))
-6. A. Y. Kaganovsky, [“Exact Complex Arithmetic in an Imaginary Radix System”](http://www.cs.ukc.ac.uk/pubs/1999/902/), Technical Report TR 9-99, 30 pages, Computing Laboratory, University of Kent, July 1999. ([PDF](pdf/1999-kaganovsky-exact-complex-arithmetic-in-an-imaginary-radix-system.pdf))
-7. A. Y. Kaganovsky, [“Exact Computing in Positional Weighted Systems”](http://www.cs.kent.ac.uk/pubs/2004/1850/), University of Kent PhD Thesis, 212 pages, March 2001. ([PDF](pdf/2001-kaganovsky-exact-computing-in-positional-weighted-systems.pdf))
-8. D. A. Turner, [“Elementary Strong Functional Programming”](http://www.cs.kent.ac.uk/people/staff/dat/esfp/nijmegen.html). In R. Plasmeijer, P. Hartel, eds, First International Symposium on Functional Programming Languages in Education, Nijmegen, Netherlands, December 1995. Springer Lecture Notes in Computer Science, vol 1022:1-13, 1995. ([PDF](pdf/1995-turner-elementary-strong-functional-programming.pdf))
+1. A. J. Telford, D. A. Turner, [“Ensuring Streams Flow”](http://www.cs.ukc.ac.uk/pubs/1997/499/) Johnson, ed, Algebraic Methodology and Software Technology — AMAST ’97. LNCS 1349, pages 509-523, Springer, 1997. ([PDF](pdf/telford-1997a.pdf))
+2. A. J. Telford, D. A. Turner, [“Ensuring the Productivity of Infinite Structures”](http://www.cs.ukc.ac.uk/pubs/1997/551/) Technical Report TR 14-97, 37 pages, Computing Laboratory, University of Kent, March 1998. ([PDF](pdf/telford-1997b.pdf))
+3. A. J. Telford, D. A. Turner, [“Ensuring Termination in ESFP”](http://www.jucs.org/jucs_6_4/ensuring_termination_in_esfp), Journal of Universal Computer Science 6(4):474-488, April 2000 (originally presented at 15th British Colloquium in Theoretical Computer Science, Keele, April 1999). ([PDF](pdf/telford-2000b.pdf))
+4. A. J. Telford, D. A. Turner, [“A Hierarchy of Languages with Strong Termination Properties”](http://www.cs.ukc.ac.uk/pubs/2000/964/), Technical Report TR 2-00, 66 pages, University of Kent Computing Laboratory, January 2000. ([PDF](pdf/telford-2000a.pdf))
+5. A. Y. Kaganovsky, [“Computing With Exact Real Numbers in a Radix-r System”](http://www.cs.kent.ac.uk/pubs/1999/947/), Electronic Notes in Theoretical Computer Science, Volume 13, 27 Pages, Elsevier 1998. Revised version available as Technical Report TR 19-99, 30 pages, Computing Laboratory, University of Kent, October 1999. ([PDF](pdf/kaganovsky-1999a.pdf))
+6. A. Y. Kaganovsky, [“Exact Complex Arithmetic in an Imaginary Radix System”](http://www.cs.ukc.ac.uk/pubs/1999/902/), Technical Report TR 9-99, 30 pages, Computing Laboratory, University of Kent, July 1999. ([PDF](pdf/kaganovsky-1999b.pdf))
+7. A. Y. Kaganovsky, [“Exact Computing in Positional Weighted Systems”](http://www.cs.kent.ac.uk/pubs/2004/1850/), University of Kent PhD Thesis, 212 pages, March 2001. ([PDF](pdf/kaganovsky-2001.pdf))
+8. D. A. Turner, [“Elementary Strong Functional Programming”](http://www.cs.kent.ac.uk/people/staff/dat/esfp/nijmegen.html). In R. Plasmeijer, P. Hartel, eds, First International Symposium on Functional Programming Languages in Education, Nijmegen, Netherlands, December 1995. Springer Lecture Notes in Computer Science, vol 1022:1-13, 1995. ([PDF](pdf/turner-1995.pdf))
