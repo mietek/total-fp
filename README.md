@@ -1,5 +1,5 @@
-_total-functional-programming_
-==============================
+_total-fp_
+==========
 
 [Archival version](doc/README.md) of the [ESFP website](http://www.cs.kent.ac.uk/people/staff/dat/esfp/), and all available literature.
 
@@ -21,9 +21,9 @@ _total-functional-programming_
 
 ### Related work
 
-* [_Totally_ functional programming](https://github.com/mietek/totally-functional-programming)
-* [The ET language](https://github.com/mietek/et-language)
-* [The Charity language](https://github.com/mietek/charity-language)
+* [_Totally_ functional programming](https://github.com/mietek/totally-fp)
+* [ET language](https://github.com/mietek/et-lang)
+* [Charity language](https://github.com/mietek/charity-lang)
 
 
 About
